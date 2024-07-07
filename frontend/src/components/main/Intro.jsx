@@ -136,13 +136,13 @@ const Intro = () => {
     }, [username]);
     console.log(username);
     const openInstagram = () => {
-        window.open('https://www.instagram.com/dhruvseth18/', '_blank', 'noopener noreferrer');
+        window.open('https://www.instagram.com/', '_blank', 'noopener noreferrer');
     };
     const openLinkedin = () => {
-        window.open('https://www.linkedin.com/in/dhruv-seth-871b64248/', '_blank', 'noopener noreferrer');
+        window.open('https://www.linkedin.com/', '_blank', 'noopener noreferrer');
     }
     const openX = () => {
-        window.open('https://twitter.com/DhruvSeth_/', '_blank', 'noopener noreferrer');
+        window.open('https://twitter.com/', '_blank', 'noopener noreferrer');
     }
     return (
         <>
